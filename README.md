@@ -1,8 +1,12 @@
-### Hi there 👋
-
 # Tiago Ribeiro
 
+[!Linkedin badge](https://img.shields.io/badge/-Tiago%20Ribeiro-ff9000?style=flat&logo=Linkedin&logoColor=ff9000&labelColor=black&link=https://www.linkedin.com/in/tiago-ribeiro-nfs1)
+
 <!--
+
+### Hi there 👋
+
+
 **Tiagoribeironfs1/tiagoribeironfs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
