@@ -1,6 +1,8 @@
 # Tiago Ribeiro
 
 [![Linkedin badge](https://img.shields.io/badge/-Tiago%20Ribeiro-ff9000?style=flat&logo=Linkedin&logoColor=ff9000&labelColor=black&link=https://www.linkedin.com/in/tiago-ribeiro-nfs1)](https://www.linkedin.com/in/tiago-ribeiro-nfs1/)
+[![Gmail badge](https://img.shields.io/badge/-Tiago%20Ribeiro-ff9000?style=flat&logo=Gmail&logoColor=ff9000&labelColor=black&link=mailto:tiagoribeironfs1@gmail.com)](mailto:tiagoribeironfs1@gmail.com)
+
 
 <!--
 
