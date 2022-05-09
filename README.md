@@ -1,8 +1,11 @@
 # Tiago Ribeiro
 
-[!Linkedin badge](https://img.shields.io/badge/-Tiago%20Ribeiro-ff9000?style=flat&logo=Linkedin&logoColor=ff9000&labelColor=black&link=https://www.linkedin.com/in/tiago-ribeiro-nfs1)
+[![Linkedin badge](https://img.shields.io/badge/-Tiago%20Ribeiro-ff9000?style=flat&logo=Linkedin&logoColor=ff9000&labelColor=black&link=https://www.linkedin.com/in/tiago-ribeiro-nfs1)](https://www.linkedin.com/in/tiago-ribeiro-nfs1/)
 
 <!--
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+
 
 ### Hi there 👋
 
