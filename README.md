@@ -1,29 +1,23 @@
 # Tiago Ribeiro
 
-[![Linkedin badge](https://img.shields.io/badge/-Tiago%20Ribeiro-ff9000?style=flat&logo=Linkedin&logoColor=ff9000&labelColor=black&link=https://www.linkedin.com/in/tiago-ribeiro-nfs1)](https://www.linkedin.com/in/tiago-ribeiro-nfs1/)
-[![Gmail badge](https://img.shields.io/badge/-tiagoribeironfs1@gmail.com-ff9000?style=flat&logo=Gmail&logoColor=ff9000&labelColor=black&link=mailto:tiagoribeironfs1@gmail.com)](mailto:tiagoribeironfs1@gmail.com)
+**Desenvolvedor Full-Stack | Software Engineer**
 
-<h4 align="center" >
-⚒️ 💻 Under construction....
-<h4/>
-<!--
+Construo sistemas que resolvem problemas reais de negócio: ERPs, integrações, automação e engenharia de dados.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+Fundador da **Digital Tracer**, onde desenvolvo uma suíte de sistemas para o varejo (ERP, e-commerce/B2B, CRM e automação).
 
+**Foco atual:** ERP com gestão de produtos e criação de anúncios no Mercado Livre — padrão outbox + filas (BullMQ) para integração resiliente e independente. Gosto de sistemas resilientes, que se recuperam sozinhos de falhas.
 
-### Hi there 👋
+## Stack
 
+**Back-end:** Node.js · NestJS · Prisma · PostgreSQL · Redis / BullMQ
 
-**Tiagoribeironfs1/tiagoribeironfs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Front-end:** TypeScript · Next.js · React · React Native
 
-Here are some ideas to get you started:
+**Outros:** Python · Java · Docker · Playwright · Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+
+Email: tiagoribeironfs1@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/tiago-ribeiro-nfs1
