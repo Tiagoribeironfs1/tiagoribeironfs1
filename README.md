@@ -10,18 +10,18 @@ Fundador da **Digital Tracer**, onde desenvolvo uma suíte de sistemas para o va
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-ff9000?style=flat&logo=typescript&logoColor=white&labelColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-ff9000?style=flat&logo=nodedotjs&logoColor=white&labelColor=black)
+![NestJS](https://img.shields.io/badge/-NestJS-ff9000?style=flat&logo=nestjs&logoColor=white&labelColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-ff9000?style=flat&logo=nextdotjs&logoColor=white&labelColor=black)
+![React](https://img.shields.io/badge/-React-ff9000?style=flat&logo=react&logoColor=white&labelColor=black)
+![Prisma](https://img.shields.io/badge/-Prisma-ff9000?style=flat&logo=prisma&logoColor=white&labelColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff9000?style=flat&logo=postgresql&logoColor=white&labelColor=black)
+![Redis](https://img.shields.io/badge/-Redis-ff9000?style=flat&logo=redis&logoColor=white&labelColor=black)
+![Python](https://img.shields.io/badge/-Python-ff9000?style=flat&logo=python&logoColor=white&labelColor=black)
+![Docker](https://img.shields.io/badge/-Docker-ff9000?style=flat&logo=docker&logoColor=white&labelColor=black)
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-ribeiro-nfs1)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagoribeironfs1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff9000?style=flat&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/tiago-ribeiro-nfs1)
+[![Gmail](https://img.shields.io/badge/-Gmail-ff9000?style=flat&logo=gmail&logoColor=white&labelColor=black)](mailto:tiagoribeironfs1@gmail.com)
