@@ -6,7 +6,7 @@ Construo sistemas que resolvem problemas reais de negócio: ERPs, integrações,
 
 Fundador da **Digital Tracer**, onde desenvolvo uma suíte de sistemas para o varejo (ERP, e-commerce/B2B, CRM e automação).
 
-**Foco atual:** ERP com gestão de produtos e criação de anúncios no Mercado Livre — padrão outbox + filas (BullMQ). Gosto de sistemas resilientes, que se recuperam sozinhos de falhas.
+**Especialidades:** arquitetura de sistemas e microserviços, integrações e APIs, automação e engenharia de dados. Busco evolução constante — código limpo, boas práticas e sistemas resilientes.
 
 ## Stack
 
